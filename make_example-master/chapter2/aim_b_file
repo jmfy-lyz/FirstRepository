@@ -1,6 +1,0 @@
-#this is aim_b file
-.PATH:aim_b
-aim_b:
-	@echo "now we exe aim_b_file"
-all:
-	@echo "all in aim_b"
