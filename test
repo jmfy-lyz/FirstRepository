@@ -1,3 +1,7 @@
 # include<stdio.h>
 #test
+<<<<<<< HEAD
 dfsfe
+=======
+dfsfehello world! Git is good!
+>>>>>>> 1c2ffe395549ee144136bc0537484a4f5ce59015
